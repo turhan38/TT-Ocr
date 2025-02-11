@@ -1,9 +1,8 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
-<p align="center"><h1 align="center"><code>❯ REPLACE-ME</code></h1></p>
-<p align="center">
 	<em>TT OCR Translator</em>
+</p>
+<p align="center">
+    <em style="color:gray;">İbrahim Turhan Bayraktar</em>
 </p>
 <p align="center">
 	<!-- local repository, no metadata badges. --></p>
