@@ -91,13 +91,14 @@ Here is a compelling overview of the project:
 Before getting started with , ensure your runtime environment meets the following requirements:
 
 - **Programming Language:** Python
+```bash
 pip install numpy
 pip install pywin32
 pip install pygetwindow
 pip install paddlepaddle
 pip install paddleocr
 pip install mtranslate
-
+```
 ###  Usage
 Run  using the following command:
 echo 'INSERT-RUN-COMMAND-HERE'
