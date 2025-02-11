@@ -20,8 +20,6 @@
   - [ Project Index](#-project-index)
 - [ Getting Started](#-getting-started)
   - [ Prerequisites](#-prerequisites)
-  - [ Usage](#-usage)
-  - [ Testing](#-testing)
 - [ License](#-license)
 - [ Acknowledgments](#-acknowledgments)
 
@@ -98,14 +96,6 @@ pip install paddlepaddle
 pip install paddleocr
 pip install mtranslate
 ```
-###  Usage
-Run  using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
-
-###  Testing
-Run the test suite using the following command:
-echo 'INSERT-TEST-COMMAND-HERE'
-
 ##  License
 
 This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
