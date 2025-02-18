@@ -20,7 +20,6 @@
   - [ Project Index](#-project-index)
 - [ Getting Started](#-getting-started)
   - [ Prerequisites](#-prerequisites)
-- [ License](#-license)
 - [ Acknowledgments](#-acknowledgments)
 
 ---
@@ -42,7 +41,6 @@ Here is a compelling overview of the project:
 | 📄 | **Documentation** | <ul><li>The primary language used for documentation is Python.</li><li>The `TTranslate.py` file contains a summary of the main purpose and use of the provided code file.</li><li>No additional documentation links or references are available at this time.</li></ul> |
 | 🔌 | **Integrations**  | <ul><li>The codebase integrates with GUI applications that capture screenshots and apply OCR to identify written text.</li><li>No other integrations are currently documented.</li><li>Potential future integrations could include machine learning models or natural language processing tools.</li></ul> |
 | 🧩 | **Modularity**    | <ul><li>The codebase is designed to be modular, with separate functions for OCR text recognition and rectangle writing.</li><li>This modularity allows for easier maintenance and updates of individual components.</li><li>No explicit module imports or exports are currently documented.</li></ul> |
-| 🧪 | **Testing**       | <ul><li>No specific testing frameworks or tools are mentioned in the codebase or documentation.</li><li>Manual testing may be necessary to ensure the code functions as intended.</li><li>Potential future testing frameworks could include unit testing libraries like `unittest` or integration testing tools like `pytest`.</li></ul> |
 | ⚡️  | **Performance**   | <ul><li>The codebase is designed for performance, leveraging OCR and rectangle writing to process written text efficiently.</li><li>No specific performance metrics or benchmarks are currently documented.</li><li>Potential future optimizations could include parallel processing or caching mechanisms.</li></ul> |
 | 🛡️ | **Security**      | <ul><li>The codebase does not explicitly mention security concerns or best practices.</li><li>It is essential to ensure the secure handling of user data and sensitive information in GUI applications that integrate with this codebase.</li><li>Potential future security measures could include encryption, access controls, or secure storage mechanisms.</li></ul> |
 
@@ -96,11 +94,6 @@ pip install paddlepaddle
 pip install paddleocr
 pip install mtranslate
 ```
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
 
 ##  Acknowledgments
 
